@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "metals.serverVersion": "0.9.10+159-ceb23edc-SNAPSHOT"
+}
